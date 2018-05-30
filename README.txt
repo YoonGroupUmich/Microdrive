@@ -2,7 +2,7 @@ Microdrive designs for micro-LED silicon probes.
 
 The .stl files are optimized for Formlabs Form2 printer and Grey Resin. For other printers and/or resins, some modifications may be necessary.
 
-This microdrive was modified based on Hiroyuki Miyawaki's design. The latest version of the microdrive is available at https://github.com/Mizuseki-Lab/microdrive.
+This microdrive was modified based on Hiroyuki Miyawaki's design. The latest version of his microdrive is available at https://github.com/Mizuseki-Lab/microdrive.
 
 The original idea of the drive is described in the following paper.
 
