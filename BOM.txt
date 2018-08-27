@@ -20,5 +20,5 @@ Rat drive (5/8")
 
 Qty	Name
 3	00-90 nut (McMaster: 92736A112)
-2	00-90 screw 5/8" (egay: 00-90 X 5/8 Slot Fillister Head Machine Screws SS)
+2	00-90 screw 5/8" (eBay: 00-90 X 5/8 Slot Fillister Head Machine Screws SS)
 1	rectangular header (DigiKey: SAM1067-40-ND)
