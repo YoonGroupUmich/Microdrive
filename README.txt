@@ -1,11 +1,14 @@
-Microdrive designs for micro-LED silicon probes.
+﻿Microdrive designs for silicon probes.
 
-The .stl files are optimized for Formlabs Form2 printer and Grey Resin. For other printers and/or resins, some modifications may be necessary.
+Assembly instructions can be found in the assembly_instructions_rat1-2inch_v20.pdf file or at these links:
+1. Microdrive assembly:  https://youtu.be/rjxaH515N64 
+2. Probe attachment to microdrive:  https://youtu.be/2L5RHcbsU7o 
+3. Probe recovery:   https://youtu.be/T5gyuZVKXo8 
 
-3 versions are made available here based on the same design but different travel lengths:
-Mice drive: shell base 8.4 x 4.2 mm (WxL); height: 11.9 mm; travel distance 2.6 mm
-Rat 1/2”: shell base 8.4 x 4.2 mm (WxL); height: 16.5 mm; travel distance 4 mm
-Rat 5/8”: shell base 8.4 x 4.2 mm (WxL); height: 18.2 mm; travel distance 8.9 mm
+The .stl files are optimized for Formlabs Form2 printer and Grey-v4/Clear-v4 Resin. For other printers and/or resins, some modifications may be necessary.
+
+1 version is made available here:
+v20: shell base 3.2 x 7.5 mm (WxL); height: 16 mm; travel distance 4.8 mm
 
 This microdrive was modified based on Hiroyuki Miyawaki's design. The latest version of his microdrive is available at https://github.com/Mizuseki-Lab/microdrive.
 
