@@ -8,7 +8,7 @@ Assembly instructions can be found in the assembly_instructions_rat1-2inch_v20.p
 The .stl files are optimized for Formlabs Form2 printer and Grey-v4/Clear-v4 Resin. For other printers and/or resins, some modifications may be necessary.
 
 1 version is made available here:
-v20: shell base 3.2 x 7.5 mm (WxL); height: 16 mm; travel distance 4.8 mm
+v21: shell base 3.2 x 7.5 mm (WxL); height: 16 mm; travel distance 4.8 mm
 
 This microdrive was modified based on Hiroyuki Miyawaki's design. The latest version of his microdrive is available at https://github.com/Mizuseki-Lab/microdrive.
 
